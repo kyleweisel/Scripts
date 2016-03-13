@@ -1,0 +1,3 @@
+#!/bin/bash
+adb root
+adb pull /data/data/com.wellthapp.mobile.android/databases/WellthData.db /Users/kyleweisel/Desktop/WellthData_dbflowtest.db
